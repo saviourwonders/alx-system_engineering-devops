@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod ugo+wx olleh
+chmod 354 olleh
